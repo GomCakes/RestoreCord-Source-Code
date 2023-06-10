@@ -13,13 +13,22 @@ if (session_status() === PHP_SESSION_NONE) {
 
 // When Discord redirects the user back here, there will be a "code" and "state" parameter in the query string
 if(get('code') && strlen(get('code')) == 30) {
-
+  
+  // used by in-app authorization
+  if(get('state')) {
+	$result = mysqli_query($link, "SELECT * FROM `servers` WHERE `guildid` = '".get('state')."'");
+	while ($row = mysqli_fetch_array($result)) {
+		$_SESSION['owner'] = $row['owner'];
+		$_SESSION['name'] = $row['name'];
+	}
+  }
+  
   // Exchange the auth code for a token
   $token = apiRequest("https://discord.com/api/oauth2/token", array(
     "grant_type" => "authorization_code",
-    'client_id' => 'discordBotIdHere',
-    'client_secret' => 'discordClientSecretHere',
-    'redirect_uri' => 'https://restorecord.com/auth/', // change to https://example.com/auth/ - and you must set https://example.com/auth/ in Discord developer portal as OAuth2 redirect URL
+    'client_id' => $client_id,
+    'client_secret' => $client_secret,
+    'redirect_uri' => $redirect_uri,
     'code' => get('code')
   ));
   $logout_token = $token->access_token;
@@ -27,7 +36,7 @@ if(get('code') && strlen(get('code')) == 30) {
   $_SESSION['refresh_token'] = $token->refresh_token;
 					
   $server = $_SESSION['owner'] . '/' . $_SESSION['name'];
-  header('Location: https://restorecord.com/verify/' . $server); // change this to https://example.com/verify/
+  header('Location: ' . $verify_uri . $server);
 }
 
 die("invalid request, please retry verification process");
