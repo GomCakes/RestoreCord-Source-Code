@@ -1,45 +1,29 @@
 # RestoreCord Source Code
 
-Update, restorecord 2024 Next.js [source leaked](https://archive.is/DhUUT). They were [100% confirmed to be selling user data](https://archive.is/GWVc2) (search "Inf0sec") and the owner xenos1337 [himself added the backdoor](https://archive.ph/dxKfB) (Ctrl + F "Inf0sec") to sell his own users' data.. Beyond pathetic 🤦‍♂️🤦‍♂️🤦‍♂️
-
-And unfortunately there's been a data breach too with customer information leaked :/ this is ridiculous
-
-Proof of owner xenos1337 selling data from personal Telegram account https://nelsoncybersecurity.com/xenos-sell-data.mp4
-
 > [!NOTE]  
-> **TLDR:**
-> <br>New RestoreCord owner xenos1337 can't really be trusted, with [large YouTubers even exposing](https://www.youtube.com/watch?v=d0h4QPqAwss&t=1008s) the scam.
-> <br>I would recommend either using this source code, or use my new service [VaultCord](https://vaultcord.com) which already has far more features and actively listens to customer feedback 👍
+> **New <ins>2024 source code</ins>:**
+> The updated Next.js source code from March, 2024 can be [downloaded here (click)](https://github.com/restorecord-source/restorecord-new-source-code)
+> <br>Instructions written by [@million1156](https://github.com/million1156) are [available here (click)](2024-new-setup.md)
+
+> [!WARNING]  
+> **I strongly recommend not using `restorecord.com`:**
+> <br><br>After my stint of ownership in RestoreCord, the new owners do not reflect the values of privacy and safety.
+> <br>The new ownership recently [sold personal data](https://nelsoncybersecurity.com/xenos-sell-data.mp4) revealed in a [data breach](https://archive.is/DhUUT) also covered in [global news with millions of views](https://www.youtube.com/watch?v=d0h4QPqAwss&t=1008s).
+> <br><br>I recommend using [VaultCord](https://vaultcord.com) with **<ins>4X more features</ins>** and also owned by the staff of [KeyAuth.cc](https://keyauth.cc) (very well-known service with 110K+ users). Far more trusthworthy than the "xenos1337" person of Restorecord [confirmed to be scamming](https://pub-d1677a93e4284baf8c2d931a541f3fd6.r2.dev/restorecord-2024-source-leak-data-breach-fraud-scams.mp4).
 
 ### Tutorial video how to host for 100% free forever: https://www.youtube.com/watch?v=804Fzc5j4vo
 
-I created RestoreCord in April 2020, a Discord service for the backup of server members, so server owners could pull them back into a server after a raid or other member loss scenario.
+This is an old software project of mine spanning from April 2020 - January 2022. The code still works for current Discord API and functions as expected.
 
-Due to my busy schedule, I hastily sold RestoreCord to a new owner in January 2022. Lesson learned, this isn't how you sell a business. This new owner, 'xenos1337', took things in a new direction. Unfortunately he started catering to scammers and those who sell their members. Meaning, he promoted the sale of members to other random server owners which serves as an annoyance and probably a privacy violation as well. You can see an [official sanctioned member-selling marketplace by RestoreCord here](https://t.me/restorecordtrade).
-
-It also became apparent that xenos1337 was involved with [token logging](https://nelsoncybersecurity.com/xenos-token-logging.mp4) (stealing Discord accounts) and [Discord phishing pages](https://nelsoncybersecurity.com/xenos-phishing-scumbag.mp4) (more Discord account stealing). Not exactly what you would want someone who has access to **millions** of Discord accounts via RestoreCord doing in his free time..
-
-Unsuprisingly, the company operating Discord didn't take kindly to this brazen activity and shut down the bot in June 2022. 1,000,000+ members were lost forever. No explanation or compensation was given by the RestoreCord management to their customers.
-
-xenos1337 had shared his plans to develop a new codebase that would be compatiable with custom bots, one bot per customer. This meant no use for the original source code, which I developed and had retained copyright ownership over, since I never transferred the copyright ownership.
-
-I published the original source code, seen in this GitHub repository. I had the legal right and felt an ethical obligation to do so, as RestoreCord customers were left waiting for months with no explanation or clear ETA when the service would return.
-
-xenos1337 was not happy about this, first attemtping to [illegally remove this GitHub repository](https://imgur.com/a/HEopxtG). Then, he [pettily scammed me for $10](https://nelsoncybersecurity.com/xenos-scamming-boosts.mp4) and [stole my Discord server vanity](https://cracked.io/Thread-Scammed-for-10-by-RestoreCord-owner-xenos1337)
-
-He continued to level attacks against me and anyone affiliated with me. He [successfully commited credit card fraud](https://imgur.com/a/EQpSIEo) on a competitor of RestoreCord that I was affiliating with. He conspired with a former co-worker of mine ([@NebulaMods](https://github.com/NebulaMods)/nebulamods.ca) to [DDoS that same RestoreCord competitor](https://nelsoncybersecurity.com/restorecord-ddos-blackmail.mp4), and [leak private API credentials](https://allmylinks.com/nebula-ethics) that the co-worker stole from my server without consent.
-
-While he did finally stop the attacks, no compensation was ever made for these wrongful, unlawful attacks, nor were RestoreCord customers compensated either for their losses.
-
-The problems continue to this day. Just a few months ago in May 2023, the new owner lost 10,000+ members due to failing to backup his database automatically, which led to him reverting to a 3 month old backup after they were banned from the hosting company OVH for fraud & abuse.
-
-I don't think the new management of RestoreCord has proven to be professional or reliable. That is why I would recommend using the source code or using my new service [VaultCord](https://vaultcord.com) which has far more features and values customer feedback.
+Written in PHP & C# - if you prefer a unified code project written in Next.js (Javascript), see the 2024 source code above.
 
 ## Copyright License
 
-The code can be used for **commercial use** if you would like. The requirements are that you must **open-source the code** and **link to this repository** in order to not be in violation of the **GNU General Public License v2.0**
+The code can be used for **commercial use** if you would like. No attribution needed 💯, though if you insist; it would be appreciated if you credited VaultCord.com ❤️
 
-Do note, however, that absolutely nobody aside from myself (William Nelson) has legal rights to use my logo for RestoreCord, or repost videos I've recorded for RestoreCord. If you do not follow this, you will recieve a copyright takedown.
+**<ins>NOTE:</ins>** nobody aside from myself (William Nelson) has legal rights to use my logo for RestoreCord [this one (not the new restorecord.com logo)](https://nelsoncybersecurity.com/rc-logo.png), or repost videos I've recorded for RestoreCord. If you do not follow this, you will recieve a copyright takedown.
+
+**<ins>Don't worry</ins>** the logo isn't included in the source code, you would have to go out of your way to download the logo on another website, so you won't get a copyright takedown on accident 👍
 
 ## Features
 
@@ -82,7 +66,7 @@ Now for c# part
 - Replace `discordIdHere` with your Discord bot's application ID https://github.com/wnelson03/RestoreCord-Source-Code/blob/eef52c3e87ff59b0b928f58cf8332dfde4060543/bot%20source/RestoreCord/Properties/Resources.resx#L121
 - Replace `botTokenHere` with your Discord bot's token https://github.com/wnelson03/RestoreCord-Source-Code/blob/eef52c3e87ff59b0b928f58cf8332dfde4060543/bot%20source/RestoreCord/Properties/Resources.resx#L139
 
-Note that this is written for Debian 11. For any other distro this is self explanatory. If you can't figure this out then leave.
+Written for Debian 11
 
 ```bash
 wget https://packages.microsoft.com/config/debian/11/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
@@ -110,7 +94,7 @@ Create a service using systemctl, make sure to replace the paths.
 
 ```
 [Unit]
-Description=Nebula Mods Inc. Restorecord
+Description=Restorecord
 After=multi-user.target
 [Service]
 WorkingDirectory=/path/to/working/directory
