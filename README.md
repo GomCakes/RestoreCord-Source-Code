@@ -2,7 +2,7 @@
 
 > [!NOTE]  
 > **New <ins>2024 source code</ins>:**
-> The updated Next.js source code from March, 2024 can be [downloaded here (click)](https://github.com/restorecord-source/restorecord-new-source-code)
+> The updated Next.js source code from March, 2024 can be [downloaded here (click)](https://github.com/restorecord-open-source/restorecord-new)
 > <br>Instructions written by [@million1156](https://github.com/million1156) are [available here (click)](2024-new-setup.md)
 
 > [!WARNING]  
