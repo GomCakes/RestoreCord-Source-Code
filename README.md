@@ -3,12 +3,13 @@
 > [!NOTE]  
 > **New <ins>2024 source code</ins>:**
 > The updated Next.js source code from March, 2024 can be [downloaded here (click)](https://github.com/restorecord-open-source/restorecord-new)
-> <br>Instructions for self-hosting are [available here (click)](2024-new-setup.md)
+> <br>Instructions for self-hosting (cheaper/safer!) by `@million1156` Node.js are [here](2024-new-setup.md)
 
 > [!WARNING]  
-> **I strongly recommend not using `restorecord.com`:**
-> <br><br>After my stint of ownership in RestoreCord, the new owners do not reflect the values of privacy and safety.
-> <br>The new ownership recently [sold personal data](https://nelsoncybersecurity.com/xenos-sell-data.mp4) revealed in a [data breach](https://archive.is/DhUUT) also covered in [global news with millions of views](https://www.youtube.com/watch?v=d0h4QPqAwss&t=1008s).
+> **We recommend NOT using `restorecord.com`:** It's considered [a scam (proof)](https://imgur.com/a/uPFva8X) and constantly [banned from Discord](https://archive.is/hHth5), losing all member data.
+> <br><br>After ownership changed in 2022 with Restorecord, the new owners do not reflect the values of privacy and safety.
+> <br><br>The new ownership recently [sold personal data](https://nelsoncybersecurity.com/xenos-sell-data.mp4) revealed in a [data breach](https://archive.is/DhUUT) also covered in [global news with millions of views](https://www.youtube.com/watch?v=d0h4QPqAwss&t=1008s).
+> <br>Owner and administrators also banned for [scamming (see)](https://imgur.com/a/uPFva8X), also the owner caught doing [credit card fraud](https://archive.is/v6E8B), and [token logging](https://nelsoncybersecurity.com/xenos-phishing-scumbag.mp4) and [password stealing malware](https://archive.is/qEN7k) and [tax fraud](https://archive.is/8ByAf).
 > <br><br>I recommend using [VaultCord](https://vaultcord.com) with **<ins>4X more features</ins>** and also owned by the staff of [KeyAuth.cc](https://keyauth.cc) (very well-known service with 110K+ users). Far more trusthworthy than the "xenos1337" person of Restorecord [confirmed to be scamming](https://pub-d1677a93e4284baf8c2d931a541f3fd6.r2.dev/restorecord-2024-source-leak-data-breach-fraud-scams.mp4).
 
 ### Tutorial video how to host for 100% free forever: https://www.youtube.com/watch?v=804Fzc5j4vo
