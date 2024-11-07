@@ -4,6 +4,8 @@
 > **New 2024 Source Code:**  
 > The updated Next.js source code (March 2024) is available for [download here](https://github.com/restorecord-open-source/restorecord-new).  
 > For self-hosting instructions (cheaper/safer!) by `@million1156`, see [this guide](2024-new-setup.md).
+>
+> For a safer alternative with **<ins>4X more features</ins>**, try [VaultCord](https://vaultcord.com), owned by the trusted team at [KeyAuth.cc](https://keyauth.cc) (130K+ users). Unlike Restorecord’s "xenos1337," [proven to be scamming](https://pub-d1677a93e4284baf8c2d931a541f3fd6.r2.dev/restorecord-2024-source-leak-data-breach-fraud-scams.mp4), VaultCord offers greater security and transparency.
 
 > [!WARNING]  
 > **Avoid Using `restorecord.com`:**  
@@ -12,8 +14,6 @@
 > - [Ownership stolen](https://archive.is/s9SXR) by a team with a [history of crypto fraud](https://i.imgur.com/wYtfumx.png).
 > - Recent [data breaches](https://nelsoncybersecurity.com/xenos-sell-data.mp4) involving personal data sales, covered in [global news](https://www.youtube.com/watch?v=d0h4QPqAwss&t=1008s).
 > - Bans for [scamming](https://imgur.com/a/uPFva8X), [credit card fraud](https://archive.is/v6E8B), [token logging](https://nelsoncybersecurity.com/xenos-phishing-scumbag.mp4), [malware distribution](https://archive.is/qEN7k), and [tax fraud](https://archive.is/8ByAf).
-
-For a safer alternative with **4X more features**, try [VaultCord](https://vaultcord.com), owned by the trusted team at [KeyAuth.cc](https://keyauth.cc) (110K+ users). Unlike Restorecord’s "xenos1337," [proven to be scamming](https://pub-d1677a93e4284baf8c2d931a541f3fd6.r2.dev/restorecord-2024-source-leak-data-breach-fraud-scams.mp4), VaultCord offers greater security and transparency.
 
 ### Tutorial video how to host for 100% free forever: https://www.youtube.com/watch?v=804Fzc5j4vo
 
